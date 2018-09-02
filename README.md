@@ -8,9 +8,9 @@ This project consists of tests built using the Jasmine framework to test against
 
 
 ## How to Test
-Once all files are locally stored, open index.html in your browser.
-The test result will appear in the bottom of the page.
-You can access the tests through Jasmin -> spec -> feedreader.js.
+* Once all files are locally stored, open index.html in your browser.
+* The test result will appear in the bottom of the page.
+* You can access the tests through Jasmine -> spec -> feedreader.js.
 
 
 
