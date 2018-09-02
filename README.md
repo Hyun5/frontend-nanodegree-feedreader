@@ -7,7 +7,7 @@ Feed Reader Test Driven Development
 This project consists of tests built using the Jasmine framework to test against an RSS feed app.
 
 
-## How to Test
+## How to use this application
 * Once all files are locally stored, open index.html in your browser.
 * The test result will appear in the bottom of the page.
 * You can access the tests through Jasmine -> spec -> feedreader.js.
